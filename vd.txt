@@ -3,6 +3,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 Xin chao
 Ban ten la gi?
 ban que o dau?
@@ -20,3 +21,6 @@ Xin chao
 Ban ten la gi?
 ban que o dau?
 >>>>>>> parent of 5ec62b7... Thay doi noi dung cua vd - lan 3
+=======
+Xin chao
+>>>>>>> parent of b4a234e... Thay doi noi dung cua vd - lan 2

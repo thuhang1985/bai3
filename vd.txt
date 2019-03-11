@@ -1,6 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 Xin chao
 Ban ten la gi?
 ban que o dau?
+=======
+>>>>>>> parent of 6792baa... Thay doi noi dung cua vd1
 =======
 >>>>>>> parent of 6792baa... Thay doi noi dung cua vd1

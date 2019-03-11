@@ -1,26 +1,4 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
 Xin chao
 Ban ten la gi?
 ban que o dau?
-=======
->>>>>>> parent of 6792baa... Thay doi noi dung cua vd1
-=======
->>>>>>> parent of 6792baa... Thay doi noi dung cua vd1
-=======
-Xin chao
->>>>>>> parent of b4a234e... Thay doi noi dung cua vd - lan 2
-=======
->>>>>>> parent of 6792baa... Thay doi noi dung cua vd1
-=======
-Xin chao
-Ban ten la gi?
-ban que o dau?
->>>>>>> parent of 5ec62b7... Thay doi noi dung cua vd - lan 3
-=======
-Xin chao
->>>>>>> parent of b4a234e... Thay doi noi dung cua vd - lan 2
+Code da duoc chinh sua boi hang

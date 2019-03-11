@@ -1,6 +1,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 Xin chao
 Ban ten la gi?
 ban que o dau?
@@ -11,3 +12,5 @@ ban que o dau?
 =======
 Xin chao
 >>>>>>> parent of b4a234e... Thay doi noi dung cua vd - lan 2
+=======
+>>>>>>> parent of 6792baa... Thay doi noi dung cua vd1
